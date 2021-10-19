@@ -1,5 +1,5 @@
 # fx67llTs
-ts practice
+learn TypeScript
 
 ## 0.x.x.202107xx
 * `下一版本`配合antdesign源码和react学习同步食用  
